@@ -115,6 +115,7 @@ We are going to setup Windows Server 2025 first.
 
 
 
+## Active Directory Organizational Units (OUs) and Groups
 
 
 
